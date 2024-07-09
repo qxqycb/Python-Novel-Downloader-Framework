@@ -48,8 +48,3 @@ Python 小说下载器框架是一个为用户提供便捷、高效小说获取�
 
 ## 贡献
 欢迎提交 Pull Request 或创建 Issue
-
-请在您的贡献中遵守我们的[行为准则](CODE_OF_CONDUCT.md)，并且确保您已经阅读了我们的[贡献指南](CONTRIBUTING.md)
-
-## 许可
-本项目采用 [MIT 许可证](LICENSE)

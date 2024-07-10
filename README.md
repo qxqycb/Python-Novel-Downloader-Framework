@@ -13,8 +13,8 @@ Python 小说下载器是一个为用户提供便捷、高效小说获取方式�
 - **数据存储**：下载内容分类存储，支持多种文件格式输出
 
 ## 开发环境配置
-- **Python 版本**：建议使用 Python 3.6 以上版本
-- **编辑器**：推荐使用 PyCharm 或 VSCode
+- **Python 版本**：建议使用 [Python](https://www.python.org/) 3.6 以上版本
+- **编辑器**：推荐使用 [PyCharm](https://www.jetbrains.com.cn/en-us/pycharm/download/?section=windows) 或 [VSCode](https://code.visualstudio.com/)
 - **虚拟环境**：使用 venv 或 virtualenv 创建独立的 Python 环境
 - **依赖管理**：使用 pip 安装第三方库，`requirements.txt` 记录项目依赖
 

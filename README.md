@@ -45,4 +45,5 @@ Python 小说下载器是一个为用户提供便捷、高效小说获取方式�
 欢迎提交 Pull Request 或创建 Issue
 
 ## Star趋势
+
 ![Stars](https://api.star-history.com/svg?repos=qxqycb/Python-Novel-Downloader-Framework&type=Date)
